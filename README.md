@@ -1,5 +1,5 @@
-# Diabetes_analysis
-A Machine Learning project that predicts whether a person has diabetes based on medical features like Glucose, Insulin, BMI, Blood Pressure and more.
+# Diabetes analysis using ML
+It is a Machine Learning project that predicts whether a person has diabetes based on medical features like Glucose, Insulin, BMI, Blood Pressure and more.
 
 Dataset: Pima Indians Diabetes Dataset from Kaggle
 Concepts Used:
